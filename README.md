@@ -56,7 +56,7 @@ Abra o arquivo index.html no navegador ou use a extensão Live Server do VS Code
 
 ---
 
-📚 Tecnologias utilizadas
+## 📚 Tecnologias utilizadas
 
 HTML5
 
@@ -66,7 +66,7 @@ Google Fonts
 
 ---
 
-📖 Aprendizados
+## 📖 Aprendizados
 
 Este projeto foi construído como parte da disciplina Programação Web Front-End, aplicando:
 
@@ -82,7 +82,7 @@ Criação de um currículo digital estilizado com foco em boas práticas.
 
 ---
 
-👩‍💻 Autora
+## 👩‍💻 Autora
 
 Mariana Gasparotto Palácios
 Acadêmica de Engenharia de Software - UTFPR
