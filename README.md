@@ -85,4 +85,5 @@ Criação de um currículo digital estilizado com foco em boas práticas.
 ## 👩‍💻 Autora
 
 Mariana Gasparotto Palácios
+
 Acadêmica de Engenharia de Software - UTFPR
